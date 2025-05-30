@@ -9,7 +9,7 @@ A fully functional backtesting engine built in Python that:
 - Calculates risk-adjusted performance metrics
 - Visualizes results
 
-💡 Ideal as a first quant-style project combining Python, pandas, SQLite, Matplotlib, and finance.
+💡 Python, pandas, SQLite, Matplotlib, and yfinance.
 
 📦 Features
 ✅ Fetch historical stock prices (via yfinance)
